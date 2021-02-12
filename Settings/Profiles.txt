@@ -1,13 +1,13 @@
 PROFILE
 
-PROFILE:EDMM_K_CTR:300:6
+PROFILE:EDMM_Z_CTR:300:6
 ATIS2:This is Muenchen Radar - online AT LEAST until ???? UTC
 ATIS3:ATIS on 123.125 - charts on vatsim-germany.org - routes on grd.aero-nav.com
 ATIS4:When reaching the first point of a STAR using the STAR to the clearance limit is mandatory
 
-PROFILE:EDMM_S_CTR:300:6
+PROFILE:EDMM_G_CTR:300:6
 ATIS2:This is Muenchen Radar - online AT LEAST until ???? UTC
-ATIS3:ATIS on 123.125 - charts on vatsim-germany.org - routes on grd.aero-nav.com
+ATIS3:ATIS on 123.075 - charts on vatsim-germany.org - routes on grd.aero-nav.com
 ATIS4:When reaching the first point of a STAR using the STAR to the clearance limit is mandatory
 
 PROFILE:EDMM_R_CTR:300:6
@@ -36,12 +36,12 @@ ATIS3:ATIS on 123.125 - charts on vatsim-germany.org - routes on grd.aero-nav.co
 ATIS4:On inital contact callsign only
 
 PROFILE:EDDM_1_APP:150:5
-ATIS2:This is Muenchen Radar - online AT LEAST until ???? UTC
+ATIS2:This is Muenchen Arrival - online AT LEAST until ???? UTC
 ATIS3:ATIS on 123.125 - charts on vatsim-germany.org - routes on grd.aero-nav.com
 ATIS4:EDMA RWY $deprwy(EDMA) /  QNH $altim(EDMA) // EDMO RWY $deprwy(EDMO) / QNH $altim(EDMO)
 
 PROFILE:EDDM_2_APP:150:5
-ATIS2:This is Muenchen Radar - online AT LEAST until ???? UTC
+ATIS2:This is Muenchen Arrival - online AT LEAST until ???? UTC
 ATIS3:ATIS on 123.125 - charts on vatsim-germany.org - routes on grd.aero-nav.com
 ATIS4:EDMA RWY $deprwy(EDMA) /  QNH $altim(EDMA) // EDMO RWY $deprwy(EDMO) / QNH $altim(EDMO)
 
@@ -83,7 +83,7 @@ ATIS4:
 PROFILE:EDDM_DEL:20:2
 ATIS2:This is Muenchen Delivery - online AT LEAST until ???? UTC
 ATIS3:ATIS on 123.125 - charts on vatsim-germany.org - routes on grd.aero-nav.com
-ATIS4:
+ATIS4:PDC datalink EDDM
 
 PROFILE:EDDN_GND:20:3
 ATIS2:This is Nuernberg Ground - online AT LEAST until ???? UTC
