@@ -1,0 +1,26 @@
+DEP
+m_Visible:1
+m_X:6
+m_Y:49
+m_LineNumber:0
+m_Resizable:1
+m_OrderingColumn:1
+m_HeaderOnly:0
+m_Column:Callsign:8:0:9:8:1:1::::0:0.0
+m_Column:Type:7:1:78:0:0:1::::1:0.0
+m_Column:C:2:1:58:27:27:1::::0:0.0
+m_Column:GRST:4:0:59:28:0:1::::1:0.0
+m_Column:SEQ:3:1:57:0:0:1::::1:0.0
+m_Column:Text:7:1:66:29:0:1::::0:0.0
+m_Column:R:2:1:63:0:0:1::::1:0.0
+m_Column:SSR:5:1:2:869:31:1::Mode S PlugIn::0:0.0
+m_Column:aSSR:5:1:60:870:31:1::Mode S PlugIn::1:0.0
+m_Column:From:5:1:61:0:0:1::::1:0.0
+m_Column:To:5:1:17:7:0:1::::1:0.0
+m_Column:Rwy:4:1:47:19:19:1::::1:0.0
+m_Column:SID:8:1:56:17:17:1::::1:0.0
+m_Column:IFL:4:1:43:11:11:1::::0:0.0
+m_Column:RFL:4:1:22:30:30:1::::1:0.0
+m_Column:COM:3:1:11:32:32:1::::0:0.0
+m_Column:PDC:4:1:444:544:27:1:vSMR:vSMR::1:0.0
+END
