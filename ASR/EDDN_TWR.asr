@@ -1,0 +1,196 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORTITLE:
+Airports:EDAB:name
+Airports:EDAC:name
+Airports:EDAH:name
+Airports:EDAV:name
+Airports:EDAY:name
+Airports:EDBC:name
+Airports:EDBH:name
+Airports:EDBK:name
+Airports:EDBM:name
+Airports:EDBW:name
+Airports:EDCD:name
+Airports:EDDB:name
+Airports:EDDC:name
+Airports:EDDE:name
+Airports:EDDF:name
+Airports:EDDG:name
+Airports:EDDK:name
+Airports:EDDL:name
+Airports:EDDM:name
+Airports:EDDN:name
+Airports:EDDP:name
+Airports:EDDR:name
+Airports:EDDS:name
+Airports:EDDT:name
+Airports:EDFB:name
+Airports:EDFC:name
+Airports:EDFE:name
+Airports:EDFH:name
+Airports:EDFM:name
+Airports:EDFO:name
+Airports:EDFQ:name
+Airports:EDFV:name
+Airports:EDFY:name
+Airports:EDFZ:name
+Airports:EDGS:name
+Airports:EDJA:name
+Airports:EDKB:name
+Airports:EDKD:name
+Airports:EDKF:name
+Airports:EDKI:name
+Airports:EDKO:name
+Airports:EDKU:name
+Airports:EDKV:name
+Airports:EDKZ:name
+Airports:EDLA:name
+Airports:EDLB:name
+Airports:EDLD:name
+Airports:EDLE:name
+Airports:EDLH:name
+Airports:EDLI:name
+Airports:EDLN:name
+Airports:EDLO:name
+Airports:EDLP:name
+Airports:EDLS:name
+Airports:EDLT:name
+Airports:EDLV:name
+Airports:EDLW:name
+Airports:EDMA:name
+Airports:EDMB:name
+Airports:EDME:name
+Airports:EDMJ:name
+Airports:EDML:name
+Airports:EDMO:name
+Airports:EDMS:name
+Airports:EDMV:name
+Airports:EDNA:name
+Airports:EDNC:name
+Airports:EDNL:name
+Airports:EDNY:name
+Airports:EDOP:name
+Airports:EDQC:name
+Airports:EDQD:name
+Airports:EDQE:name
+Airports:EDQH:name
+Airports:EDQK:name
+Airports:EDQM:name
+Airports:EDRK:name
+Airports:EDRM:name
+Airports:EDRP:name
+Airports:EDRT:name
+Airports:EDRY:name
+Airports:EDRZ:name
+Airports:EDSB:name
+Airports:EDSW:name
+Airports:EDTD:name
+Airports:EDTF:name
+Airports:EDTG:name
+Airports:EDTL:name
+Airports:EDTM:name
+Airports:EDTO:name
+Airports:EDTY:name
+Airports:EDUB:name
+Airports:ETAD:name
+Airports:ETAR:name
+Airports:ETHF:name
+Airports:ETHL:name
+Airports:ETHN:name
+Airports:ETHR:name
+Airports:ETIC:name
+Airports:ETNG:name
+Airports:ETNL:name
+Airports:ETNN:name
+Airports:ETNU:name
+Airports:ETOR:name
+Airports:ETOU:name
+Airports:ETSA:name
+Airports:ETSB:name
+Airports:ETSE:name
+Airports:ETSF:name
+Airports:ETSI:name
+Airports:ETSL:name
+Airports:ETSN:name
+Airports:ETUO:name
+Airports:LOWG:name
+Airports:LOWI:name
+Airports:LOWK:name
+Airports:LOWL:name
+Airports:LOWS:name
+Airports:LOWW:name
+Airports:LSGC:name
+Airports:LSGG:name
+Airports:LSGS:name
+Airports:LSZA:name
+Airports:LSZB:name
+Airports:LSZG:name
+Airports:LSZH:name
+Airports:LSZR:name
+Airports:LSZS:name
+ARTCC boundary:EDMM_CTR-FULL:
+ARTCC high boundary:EDBB_APP:
+ARTCC high boundary:EDDM_APP:
+ARTCC high boundary:EDDN_APP:
+ARTCC high boundary:EDDP_APP:
+ARTCC high boundary:EDNY_APP:
+ARTCC high boundary:LOWI_APP:
+ARTCC high boundary:LOWL_APP:
+ARTCC high boundary:LOWS_APP:
+ARTCC low boundary:Tower CTR EDDN:
+Fixes:DN-F:name
+Fixes:DN-F:symbol
+Fixes:DN-N:name
+Fixes:DN-N:symbol
+Fixes:DN-O:name
+Fixes:DN-O:symbol
+Fixes:DN-S:name
+Fixes:DN-S:symbol
+Fixes:OSNUB:name
+Fixes:OSNUB:symbol
+Fixes:VENUB:name
+Fixes:VENUB:symbol
+Runways:EDDN 10-28:centerline
+Runways:EDDN 10-28:extended centerline 1
+Runways:EDDN 10-28:extended centerline 1 left base
+Runways:EDDN 10-28:extended centerline 1 left ticks
+Runways:EDDN 10-28:extended centerline 1 left vectoring
+Runways:EDDN 10-28:extended centerline 1 right base
+Runways:EDDN 10-28:extended centerline 1 right ticks
+Runways:EDDN 10-28:extended centerline 1 right vectoring
+Runways:EDDN 10-28:extended centerline 2
+Runways:EDDN 10-28:extended centerline 2 left base
+Runways:EDDN 10-28:extended centerline 2 left ticks
+Runways:EDDN 10-28:extended centerline 2 left vectoring
+Runways:EDDN 10-28:extended centerline 2 right base
+Runways:EDDN 10-28:extended centerline 2 right ticks
+Runways:EDDN 10-28:extended centerline 2 right vectoring
+Runways:EDDN 10-28:name
+VORs:ERL:name
+VORs:ERL:symbol
+VORs:NUB:name
+VORs:NUB:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:DFS Full Alternate
+WINDOWAREA:49.254596:10.275555:49.786144:11.880850
+
+PLUGIN:Display Elements:.edr:10:Restricted area EDMM
+PLUGIN:Display Elements:.mrva:13:EDMM MRVA:14:EDMM MRVA
+PLUGIN:Display Elements:.sid10:7:EDDN SID 10
+PLUGIN:Display Elements:.sid28:7:EDDN SID 28
+PLUGIN:Display Elements:.star:6:EDDN STAR
+PLUGIN:Display Elements:.tran10:6:EDDN TRAN 10
+PLUGIN:Display Elements:.tran28:6:EDDN TRAN 28
+PLUGIN:Display Elements:commands:.mrva:.sid10:.sid28:.edr:.star:.tran10:.tran28 
