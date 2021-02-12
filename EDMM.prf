@@ -1,0 +1,63 @@
+Settings	SettingsfileSYMBOLOGY	\EDMM\SETTINGS\Symbology.txt
+Settings	SettingsfileVOICE	\EDMM\SETTINGS\VoiceChannels.txt
+Settings	SettingsfilePROFILE	\EDMM\SETTINGS\Profiles.txt
+Settings	SettingsfileTAGS	\EDMM\Settings\Tags.txt
+Settings	SettingsfileSIL	\EDMM\SETTINGS\SectorInboundList.txt
+Settings	SettingsfileSEL	\EDMM\SETTINGS\SectorExitList.txt
+Settings	SettingsfileDEP	\EDMM\SETTINGS\DepartureList.txt
+Settings	SettingsfileARR	\EDMM\SETTINGS\ArrivalList.txt
+Settings	SettingsfileFP	\EDMM\SETTINGS\FPList.txt
+Settings	SettingsfilePLUGINS	\EDMM\SETTINGS\Plugins.txt
+Settings	Settingsfile	\EDMM\Settings\GeneralTopsky.txt
+Settings	SettingsfileSCREEN	\EDMM\SETTINGS\Screen.txt
+Settings	SettingsfileCONFLICT	\EDMM\SETTINGS\ConflictListConfiguration.txt
+SSettings	alias	\EDMM\Alias\alias.txt
+Settings	AtisFolder	\EDMM\ATIS\AtisFiles.txt
+Settings	airlines	\EDMM\ICAO\ICAO_Airlines.txt
+Settings	airports	\EDMM\ICAO\ICAO_Airports.txt
+Settings	aircraft	\EDMM\ICAO\ICAO_Aircraft.txt
+Settings	airways	\EDMM\NavData\airway.txt
+Settings	airportcoords	\EDMM\NavData\icao.txt
+LastSession	connecttype	0
+LastSession	atis_airport	EDDM
+RecentFiles	Recent1	\EDMM\ASR\EDDM_GND_GR.asr
+RecentFiles	Recent2	\EDMM\ASR\EDMM_CTR.asr
+RecentFiles	Recent3	\EDMM\ASR\EDDM_APP.asr
+ASRFastKeys	1	\EDMM\ASR\EDDM_GND_GR.asr
+ASRFastKeys	2	\EDMM\ASR\EDDM_TWR_GR.asr
+ASRFastKeys	3	\EDMM\ASR\EDDM_APP.asr
+ASRFastKeys	4	\EDMM\ASR\EDDN_GND_GR.asr
+ASRFastKeys	5	\EDMM\ASR\EDDN_TWR_GR.asr
+ASRFastKeys	6	\EDMM\ASR\EDDN_APP.asr
+ASRFastKeys	7	\EDMM\ASR\EDMM_CTR.asr
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+Plugins	Plugin0	\EDMM\Plugins\DisplayElements.dll 
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin0Display1	SMR radar display
+Plugins	Plugin1	\EDMM\Plugins\ESTagItems.dll
+Plugins	Plugin1Display0	Standard ES radar screen
+Plugins	Plugin1Display1	SMR radar display
+Plugins	Plugin2	\EDMM\Plugins\vSMR.dll
+Plugins	Plugin2Display0	SMR radar display
+Plugins	Plugin3	\EDMM\Plugins\ModeS.dll
+Plugins	Plugin3Display0	ModeS Function Relay (no display)
+Plugins	Plugin3Display1	SMR radar display
+Plugins	Plugin3Display2	Standard ES radar screen
+Plugins	Plugin4	\EDMM\Plugins\AfvEuroScopeBridge.dll
+Plugins	Plugin4Display0	Ground Radar display
+Plugins	Plugin5	\EDMM\Plugins\GRPlugin\GRplugin.dll
+Plugins	Plugin5Display0	Ground Radar display
+Settings	sector	\EDMM-AeroNav_20210128124215-210101-0001.sct
+Settings	sector	\EDMM-AeroNav_20210128124215-210101-0001.sct
+RecentFiles	Recent4	\EDMM\ASR\EDDM_TWR_GR.asr
+RecentFiles	Recent5	\EDMM\ASR\EDDN_TWR_GR.asr
+RecentFiles	Recent6	\EDMM\ASR\EDDN_GND_GR.asr
+RecentFiles	Recent7	\EDMM\ASR\EDDN_APP.asr
+Plugins	Plugin3Display3	Ground Radar display
+Plugins	Plugin4Display1	Standard ES radar screen
+Plugins	Plugin4Display2	SMR radar display
+Plugins	Plugin4Display3	ModeS Function Relay (no display)
+Settings	alias	\EDMM\Alias\alias.txt
+Plugins	Plugin6	\EDMM\Plugins\Topsky\TopSky.dll
+Plugins	Plugin6Display0	Standard ES radar screen
