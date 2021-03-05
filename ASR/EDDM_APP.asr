@@ -12,6 +12,7 @@ ARTCC high boundary:EDNY_APP:
 ARTCC high boundary:LOWI_APP:
 ARTCC high boundary:LOWL_APP:
 ARTCC high boundary:LOWS_APP:
+ARTCC low boundary:Airspace C EDDM:
 ARTCC low boundary:Tower CTR EDDM:
 ARTCC low boundary:Tower CTR EDMA:
 ARTCC low boundary:Tower CTR EDMO:
@@ -43,60 +44,6 @@ Fixes:BURAM:name
 Fixes:BURAM:symbol
 Fixes:DISUN:name
 Fixes:DISUN:symbol
-Fixes:DM411:name
-Fixes:DM411:symbol
-Fixes:DM412:name
-Fixes:DM412:symbol
-Fixes:DM420:name
-Fixes:DM420:symbol
-Fixes:DM421:name
-Fixes:DM421:symbol
-Fixes:DM422:symbol
-Fixes:DM423:symbol
-Fixes:DM424:name
-Fixes:DM424:symbol
-Fixes:DM425:symbol
-Fixes:DM426:symbol
-Fixes:DM427:name
-Fixes:DM427:symbol
-Fixes:DM428:name
-Fixes:DM428:symbol
-Fixes:DM429:name
-Fixes:DM429:symbol
-Fixes:DM430:name
-Fixes:DM430:symbol
-Fixes:DM431:symbol
-Fixes:DM438:symbol
-Fixes:DM439:name
-Fixes:DM439:symbol
-Fixes:DM440:name
-Fixes:DM440:symbol
-Fixes:DM441:symbol
-Fixes:DM448:symbol
-Fixes:DM449:name
-Fixes:DM449:symbol
-Fixes:DM450:name
-Fixes:DM450:symbol
-Fixes:DM451:name
-Fixes:DM451:symbol
-Fixes:DM452:symbol
-Fixes:DM453:symbol
-Fixes:DM454:name
-Fixes:DM454:symbol
-Fixes:DM455:symbol
-Fixes:DM456:symbol
-Fixes:DM457:name
-Fixes:DM457:symbol
-Fixes:DM458:name
-Fixes:DM458:symbol
-Fixes:DM459:name
-Fixes:DM459:symbol
-Fixes:DM463:name
-Fixes:DM463:symbol
-Fixes:DM472:name
-Fixes:DM472:symbol
-Fixes:DM476:name
-Fixes:DM476:symbol
 Fixes:DODIL:name
 Fixes:DODIL:symbol
 Fixes:EVIVA:name
@@ -107,8 +54,6 @@ Fixes:GIVMI:name
 Fixes:GIVMI:symbol
 Fixes:GOMAX:name
 Fixes:GOMAX:symbol
-Fixes:GUDEG:name
-Fixes:GUDEG:symbol
 Fixes:IRBIR:name
 Fixes:IRBIR:symbol
 Fixes:KIRDI:name
@@ -137,8 +82,6 @@ Fixes:MITNU:name
 Fixes:MITNU:symbol
 Fixes:NAPSA:name
 Fixes:NAPSA:symbol
-Fixes:NELBI:name
-Fixes:NELBI:symbol
 Fixes:NETES:name
 Fixes:NETES:symbol
 Fixes:OBAGA:name
@@ -191,69 +134,9 @@ Geo:GEO:
 NDBs:MIQ:name
 NDBs:MIQ:symbol
 Runways:EDDM 08L-26R:centerline
-Runways:EDDM 08L-26R:extended centerline 1
-Runways:EDDM 08L-26R:extended centerline 1 left base
-Runways:EDDM 08L-26R:extended centerline 1 left ticks
-Runways:EDDM 08L-26R:extended centerline 1 left vectoring
-Runways:EDDM 08L-26R:extended centerline 1 right base
-Runways:EDDM 08L-26R:extended centerline 1 right ticks
-Runways:EDDM 08L-26R:extended centerline 1 right vectoring
-Runways:EDDM 08L-26R:extended centerline 2
-Runways:EDDM 08L-26R:extended centerline 2 left base
-Runways:EDDM 08L-26R:extended centerline 2 left ticks
-Runways:EDDM 08L-26R:extended centerline 2 left vectoring
-Runways:EDDM 08L-26R:extended centerline 2 right base
-Runways:EDDM 08L-26R:extended centerline 2 right ticks
-Runways:EDDM 08L-26R:extended centerline 2 right vectoring
-Runways:EDDM 08L-26R:name
 Runways:EDDM 08R-26L:centerline
-Runways:EDDM 08R-26L:extended centerline 1
-Runways:EDDM 08R-26L:extended centerline 1 left base
-Runways:EDDM 08R-26L:extended centerline 1 left ticks
-Runways:EDDM 08R-26L:extended centerline 1 left vectoring
-Runways:EDDM 08R-26L:extended centerline 1 right base
-Runways:EDDM 08R-26L:extended centerline 1 right ticks
-Runways:EDDM 08R-26L:extended centerline 1 right vectoring
-Runways:EDDM 08R-26L:extended centerline 2
-Runways:EDDM 08R-26L:extended centerline 2 left base
-Runways:EDDM 08R-26L:extended centerline 2 left ticks
-Runways:EDDM 08R-26L:extended centerline 2 left vectoring
-Runways:EDDM 08R-26L:extended centerline 2 right base
-Runways:EDDM 08R-26L:extended centerline 2 right ticks
-Runways:EDDM 08R-26L:extended centerline 2 right vectoring
-Runways:EDDM 08R-26L:name
 Runways:EDMA 07-25:centerline
-Runways:EDMA 07-25:extended centerline 1
-Runways:EDMA 07-25:extended centerline 1 left base
-Runways:EDMA 07-25:extended centerline 1 left ticks
-Runways:EDMA 07-25:extended centerline 1 left vectoring
-Runways:EDMA 07-25:extended centerline 1 right base
-Runways:EDMA 07-25:extended centerline 1 right ticks
-Runways:EDMA 07-25:extended centerline 1 right vectoring
-Runways:EDMA 07-25:extended centerline 2
-Runways:EDMA 07-25:extended centerline 2 left base
-Runways:EDMA 07-25:extended centerline 2 left ticks
-Runways:EDMA 07-25:extended centerline 2 left vectoring
-Runways:EDMA 07-25:extended centerline 2 right base
-Runways:EDMA 07-25:extended centerline 2 right ticks
-Runways:EDMA 07-25:extended centerline 2 right vectoring
-Runways:EDMA 07-25:name
 Runways:EDMO 04-22:centerline
-Runways:EDMO 04-22:extended centerline 1
-Runways:EDMO 04-22:extended centerline 1 left base
-Runways:EDMO 04-22:extended centerline 1 left ticks
-Runways:EDMO 04-22:extended centerline 1 left vectoring
-Runways:EDMO 04-22:extended centerline 1 right base
-Runways:EDMO 04-22:extended centerline 1 right ticks
-Runways:EDMO 04-22:extended centerline 1 right vectoring
-Runways:EDMO 04-22:extended centerline 2
-Runways:EDMO 04-22:extended centerline 2 left base
-Runways:EDMO 04-22:extended centerline 2 left ticks
-Runways:EDMO 04-22:extended centerline 2 left vectoring
-Runways:EDMO 04-22:extended centerline 2 right base
-Runways:EDMO 04-22:extended centerline 2 right ticks
-Runways:EDMO 04-22:extended centerline 2 right vectoring
-Runways:EDMO 04-22:name
 VORs:DKB:name
 VORs:DKB:symbol
 VORs:ERL:name
@@ -291,3 +174,4 @@ PLUGIN:Display Elements:.star:6:EDDM STAR
 PLUGIN:Display Elements:.tran08:6:EDDM TRAN 08
 PLUGIN:Display Elements:.tran26:6:EDDM TRAN 26
 PLUGIN:Display Elements:commands:.mrva:.sid08:.sid26:.edr:.star:.tran26:.tran08
+PLUGIN:EsCenterLines:Active:2
