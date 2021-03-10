@@ -1,5 +1,5 @@
 VCCS
-Ts3Server:cherryx.de
+Ts3Server:5.9.96.203
 Ts3Port:9988
 Ts3G2GChannel:APN1:1_GND:16777215:0:MP
 Ts3G2GChannel:APN2:2_GND:16777215:1:MP2
