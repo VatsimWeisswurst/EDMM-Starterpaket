@@ -6,20 +6,18 @@ m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:1
 m_HeaderOnly:0
-m_Column:Callsign:8:0:9:8:1:1::::0:0.0
-m_Column:Type:7:1:78:0:0:1::::1:0.0
+m_Column:CALLSIGN:8:0:9:0:99:1:::TopSky plugin:9:0.0
+m_Column:TYPE:7:1:78:0:0:1::::1:0.0
+m_Column:aSSR:5:1:10042:62:0:1:TopSky plugin:TopSky plugin::1:0.0
+m_Column:ADEP:5:1:10007:1001:0:1:TopSky plugin:TopSky plugin::1:0.0
+m_Column:ADES:5:1:10008:1001:0:1:TopSky plugin:TopSky plugin::1:0.0
+m_Column:SID:8:1:10011:17:0:1:TopSky plugin:::0:0.0
+m_Column:RWY:4:1:10050:19:0:1:TopSky plugin:::0:0.0
+m_Column:CFL:4:1:10049:12:12:1:TopSky plugin:TopSky plugin:TopSky plugin:0:0.0
 m_Column:C:2:1:10046:27:78:1:TopSky plugin::TopSky plugin:0:0.0
-m_Column:GRST:5:1:3:13:0:1:Ground Radar plugin:Ground Radar plugin::0:0.0
-m_Column:SEQ:3:1:57:0:0:1::::1:0.0
-m_Column:Text:7:1:66:29:0:1::::0:0.0
-m_Column:R:2:1:63:0:0:1::::1:0.0
-m_Column:SSR:5:1:2:869:31:1::Mode S PlugIn::0:0.0
-m_Column:aSSR:5:1:60:870:31:1::Mode S PlugIn::1:0.0
-m_Column:From:5:1:61:0:0:1::::1:0.0
-m_Column:To:5:1:17:7:0:1::::1:0.0
-m_Column:Rwy:4:1:47:19:19:1::::1:0.0
-m_Column:SID:8:1:56:17:17:1::::1:0.0
-m_Column:IFL:4:1:43:11:11:1::::0:0.0
-m_Column:RFL:4:1:22:30:30:1::::1:0.0
-m_Column:COM:3:1:11:32:32:1::::0:0.0
+m_Column:STAND:6:1:1:1:0:1:Ground Radar plugin:Ground Radar plugin::1975716767:0.0
+m_Column:STATUS:7:1:3:13:0:1:Ground Radar plugin:Ground Radar plugin::0:0.0
+m_Column:COM:4:1:11:32:32:1::::0:0.0
+m_Column:NOTE:6:1:19:29:0:1::::0:0.0
+m_Column:FPV:4:1:1:101:100:1:DelHel:DelHel:DelHel:1:0.0
 END
