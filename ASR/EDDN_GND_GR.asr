@@ -3,7 +3,6 @@ DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
-ARTCC high boundary:EDDN_APP:
 Free Text:EDDN Grounddesignators\01:freetext
 Free Text:EDDN Grounddesignators\02:freetext
 Free Text:EDDN Grounddesignators\03:freetext
@@ -65,6 +64,7 @@ Free Text:EDDN Grounddesignators\T2:freetext
 Geo:EDDN Groundlayout Holding Points:
 Geo:EDDN Groundlayout REGION SYTLE:
 Regions:EDDN Groundlayout:polygon
+Regions:EDDN Groundlayout Buildin:polygon
 Runways:EDDN 10-28:name
 SHOWC:1
 SHOWSB:0
@@ -79,7 +79,8 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:352.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:49.487441:11.049897:49.505469:11.100279
+WINDOWAREA:49.489225:11.056996:49.505145:11.097301
+PLUGIN:EsCenterLines:Active:0
 PLUGIN:ESCenterlines:Display Active:1
 PLUGIN:ESCenterlines:Display_Centerlines:1
 PLUGIN:Ground Radar plugin:AirportElevation:1046
