@@ -99,8 +99,6 @@ Airports:EDDL:name
 Airports:EDDL:symbol
 Airports:EDDM:name
 Airports:EDDM:symbol
-Airports:EDDN:name
-Airports:EDDN:symbol
 Airports:EDDP:name
 Airports:EDDP:symbol
 Airports:EDDR:name
@@ -465,162 +463,64 @@ Airports:EDXR:name
 Airports:EDXR:symbol
 Airports:EDXW:name
 Airports:EDXW:symbol
-Airports:EPBA:name
-Airports:EPBA:symbol
-Airports:EPBC:name
-Airports:EPBC:symbol
-Airports:EPBK:name
-Airports:EPBK:symbol
-Airports:EPBO:name
-Airports:EPBO:symbol
-Airports:EPBY:name
-Airports:EPBY:symbol
 Airports:EPCE:name
 Airports:EPCE:symbol
-Airports:EPDA:name
-Airports:EPDA:symbol
 Airports:EPDE:name
 Airports:EPDE:symbol
 Airports:EPEL:name
 Airports:EPEL:symbol
 Airports:EPGD:name
 Airports:EPGD:symbol
-Airports:EPGI:name
-Airports:EPGI:symbol
-Airports:EPGL:name
-Airports:EPGL:symbol
-Airports:EPGO:name
-Airports:EPGO:symbol
-Airports:EPGY:name
-Airports:EPGY:symbol
-Airports:EPIN:name
-Airports:EPIN:symbol
 Airports:EPIR:name
 Airports:EPIR:symbol
-Airports:EPIW:name
-Airports:EPIW:symbol
-Airports:EPJG:name
-Airports:EPJG:symbol
-Airports:EPKA:name
-Airports:EPKA:symbol
-Airports:EPKE:name
-Airports:EPKE:symbol
-Airports:EPKG:name
-Airports:EPKG:symbol
 Airports:EPKK:name
 Airports:EPKK:symbol
-Airports:EPKM:name
-Airports:EPKM:symbol
-Airports:EPKO:name
-Airports:EPKO:symbol
-Airports:EPKP:name
-Airports:EPKP:symbol
-Airports:EPKR:name
-Airports:EPKR:symbol
 Airports:EPKS:name
 Airports:EPKS:symbol
 Airports:EPKT:name
 Airports:EPKT:symbol
-Airports:EPKW:name
-Airports:EPKW:symbol
 Airports:EPLB:name
 Airports:EPLB:symbol
 Airports:EPLK:name
 Airports:EPLK:symbol
 Airports:EPLL:name
 Airports:EPLL:symbol
-Airports:EPLR:name
-Airports:EPLR:symbol
-Airports:EPLS:name
-Airports:EPLS:symbol
-Airports:EPLU:name
-Airports:EPLU:symbol
 Airports:EPLY:name
 Airports:EPLY:symbol
 Airports:EPMB:name
 Airports:EPMB:symbol
 Airports:EPMI:name
 Airports:EPMI:symbol
-Airports:EPML:name
-Airports:EPML:symbol
 Airports:EPMM:name
 Airports:EPMM:symbol
 Airports:EPMO:name
 Airports:EPMO:symbol
-Airports:EPMR:name
-Airports:EPMR:symbol
-Airports:EPNL:name
-Airports:EPNL:symbol
-Airports:EPNT:name
-Airports:EPNT:symbol
-Airports:EPOD:name
-Airports:EPOD:symbol
 Airports:EPOK:name
 Airports:EPOK:symbol
-Airports:EPOM:name
-Airports:EPOM:symbol
-Airports:EPOP:name
-Airports:EPOP:symbol
-Airports:EPPB:name
-Airports:EPPB:symbol
-Airports:EPPK:name
-Airports:EPPK:symbol
-Airports:EPPL:name
-Airports:EPPL:symbol
 Airports:EPPO:name
 Airports:EPPO:symbol
 Airports:EPPR:name
 Airports:EPPR:symbol
-Airports:EPPT:name
-Airports:EPPT:symbol
 Airports:EPPW:name
 Airports:EPPW:symbol
-Airports:EPPZ:name
-Airports:EPPZ:symbol
 Airports:EPRA:name
 Airports:EPRA:symbol
-Airports:EPRG:name
-Airports:EPRG:symbol
-Airports:EPRJ:name
-Airports:EPRJ:symbol
-Airports:EPRP:name
-Airports:EPRP:symbol
 Airports:EPRZ:name
 Airports:EPRZ:symbol
 Airports:EPSC:name
 Airports:EPSC:symbol
-Airports:EPSD:name
-Airports:EPSD:symbol
 Airports:EPSN:name
 Airports:EPSN:symbol
-Airports:EPST:name
-Airports:EPST:symbol
-Airports:EPSU:name
-Airports:EPSU:symbol
 Airports:EPSY:name
 Airports:EPSY:symbol
 Airports:EPTM:name
 Airports:EPTM:symbol
-Airports:EPTO:name
-Airports:EPTO:symbol
 Airports:EPWA:name
 Airports:EPWA:symbol
-Airports:EPWK:name
-Airports:EPWK:symbol
 Airports:EPWR:name
 Airports:EPWR:symbol
-Airports:EPWS:name
-Airports:EPWS:symbol
-Airports:EPWT:name
-Airports:EPWT:symbol
-Airports:EPZA:name
-Airports:EPZA:symbol
 Airports:EPZG:name
 Airports:EPZG:symbol
-Airports:EPZP:name
-Airports:EPZP:symbol
-Airports:EPZR:name
-Airports:EPZR:symbol
 Airports:ETAD:name
 Airports:ETAD:symbol
 Airports:ETAR:name
@@ -1239,8 +1139,6 @@ Airports:LSMD:name
 Airports:LSMD:symbol
 Airports:LSME:name
 Airports:LSME:symbol
-Airports:LSMF:name
-Airports:LSMF:symbol
 Airports:LSML:name
 Airports:LSML:symbol
 Airports:LSMM:name
@@ -1279,17 +1177,6 @@ Airports:LSZR:name
 Airports:LSZR:symbol
 Airports:LSZS:name
 Airports:LSZS:symbol
-ARTCC high boundary:EDBB_APP:
-ARTCC high boundary:EDDM_APP:
-ARTCC high boundary:EDDN_APP:
-ARTCC high boundary:EDDP_APP:
-ARTCC high boundary:EDNY_APP:
-ARTCC high boundary:LOWI_APP:
-ARTCC high boundary:LOWL_APP:
-ARTCC high boundary:LOWS_APP:
-ARTCC high boundary:Restricted area EDMM ED-R136A Grafenwoehr:
-ARTCC high boundary:Restricted area EDMM ED-R136B Grafenwoehr:
-ARTCC high boundary:Restricted area EDMM ED-R136C Grafenwoehr:
 ARTCC low boundary:Tower CTR EDDN:
 Fixes:DN-F:name
 Fixes:DN-F:symbol
@@ -1299,27 +1186,11 @@ Fixes:DN-O:name
 Fixes:DN-O:symbol
 Fixes:DN-S:name
 Fixes:DN-S:symbol
-Fixes:OSNUB:name
-Fixes:OSNUB:symbol
-Fixes:VENUB:name
-Fixes:VENUB:symbol
+Geo:EDDN Groundlayout Holding Points:
 Geo:EDMM Highway:
 Geo:EDMM River:
 Regions:EDDN Groundlayout:polygon
-Runways:EDDN 10-28:extended centerline 1
-Runways:EDDN 10-28:extended centerline 1 left base
-Runways:EDDN 10-28:extended centerline 1 left ticks
-Runways:EDDN 10-28:extended centerline 1 left vectoring
-Runways:EDDN 10-28:extended centerline 1 right base
-Runways:EDDN 10-28:extended centerline 1 right ticks
-Runways:EDDN 10-28:extended centerline 1 right vectoring
-Runways:EDDN 10-28:extended centerline 2
-Runways:EDDN 10-28:extended centerline 2 left base
-Runways:EDDN 10-28:extended centerline 2 left ticks
-Runways:EDDN 10-28:extended centerline 2 left vectoring
-Runways:EDDN 10-28:extended centerline 2 right base
-Runways:EDDN 10-28:extended centerline 2 right ticks
-Runways:EDDN 10-28:extended centerline 2 right vectoring
+Runways:EDDN 10-28:centerline
 Runways:EDDN 10-28:name
 VORs:ERL:name
 VORs:ERL:symbol
@@ -1336,9 +1207,9 @@ HISTORY_DOTS:0
 SIMULATION_MODE:4
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:0.00000
-TAGFAMILY:GRplugin
-WINDOWAREA:49.322718:10.562762:49.691162:11.592385
+DisplayRotation:352.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:49.333014:10.684906:49.658373:11.508604
 PLUGIN:Display Elements:.edr:10:Restricted area EDMM
 PLUGIN:Display Elements:.mrva:13:EDMM MRVA:14:EDMM MRVA
 PLUGIN:Display Elements:.sid10:7:EDDN SID 10
@@ -1347,4 +1218,6 @@ PLUGIN:Display Elements:.star:6:EDDN STAR
 PLUGIN:Display Elements:.tran10:6:EDDN TRAN 10
 PLUGIN:Display Elements:.tran28:6:EDDN TRAN 28
 PLUGIN:Display Elements:commands:.mrva:.sid10:.sid28:.edr:.star:.tran10:.tran28 
+PLUGIN:EsCenterLines:Active:2
 PLUGIN:Ground Radar plugin:TowerMode:EDDN
+PLUGIN:TopSky plugin:NoDraw:1
