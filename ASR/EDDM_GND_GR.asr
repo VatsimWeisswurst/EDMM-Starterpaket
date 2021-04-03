@@ -3,7 +3,6 @@ DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
-ARTCC high boundary:EDDM_APP:
 Free Text:EDDM Grounddesignators\110:freetext
 Free Text:EDDM Grounddesignators\111:freetext
 Free Text:EDDM Grounddesignators\112:freetext
@@ -201,8 +200,9 @@ Free Text:EDDM Grounddesignators\B8:freetext
 Free Text:EDDM Grounddesignators\B8:freetext
 Free Text:EDDM Grounddesignators\C1:freetext
 Free Text:EDDM Grounddesignators\C2:freetext
-Free Text:EDDM Grounddesignators\C3 (C4):freetext
-Free Text:EDDM Grounddesignators\C4 (C5):freetext
+Free Text:EDDM Grounddesignators\C3:freetext
+Free Text:EDDM Grounddesignators\C4 (C3):freetext
+Free Text:EDDM Grounddesignators\C5 (C4):freetext
 Free Text:EDDM Grounddesignators\CTR2:freetext
 Free Text:EDDM Grounddesignators\CTR2:freetext
 Free Text:EDDM Grounddesignators\D1:freetext
@@ -212,7 +212,9 @@ Free Text:EDDM Grounddesignators\D3:freetext
 Free Text:EDDM Grounddesignators\D4:freetext
 Free Text:EDDM Grounddesignators\D5:freetext
 Free Text:EDDM Grounddesignators\D6:freetext
+Free Text:EDDM Grounddesignators\E3 (O3):freetext
 Free Text:EDDM Grounddesignators\Helipad:freetext
+Free Text:EDDM Grounddesignators\K1 (E1):freetext
 Free Text:EDDM Grounddesignators\M:freetext
 Free Text:EDDM Grounddesignators\M:freetext
 Free Text:EDDM Grounddesignators\M:freetext
@@ -276,6 +278,7 @@ Free Text:EDDM Grounddesignators\W2:freetext
 Free Text:EDDM Grounddesignators\W2:freetext
 Geo:EDDM Groundlayout Holding Points:
 Geo:EDDM Groundlayout REGION style:
+Geo:EDDM Groundlayout Stopbars:
 Regions:EDDM Groundlayout:polygon
 Runways:EDDM 08L-26R:name
 Runways:EDDM 08R-26L:name
@@ -292,7 +295,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:6.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:48.299443:11.737060:48.413085:11.838010
+WINDOWAREA:48.335030:11.740585:48.372269:11.834860
 PLUGIN:ESCenterlines:Display Active:1
 PLUGIN:ESCenterlines:Display_Centerlines:1
 PLUGIN:Ground Radar plugin:AirportElevation:1487
