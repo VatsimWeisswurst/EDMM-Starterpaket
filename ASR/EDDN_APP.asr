@@ -1,80 +1,23 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
-Airports:EDQC:name
-Airports:EDQC:symbol
-Airports:EDQD:name
-Airports:EDQD:symbol
-Airports:EDQK:name
-Airports:EDQK:symbol
-Airports:EDQM:name
-Airports:EDQM:symbol
-Airports:EDQT:name
-Airports:EDQT:symbol
-Airports:ETIC:name
-Airports:ETIC:symbol
+SECTORFILE:C:\Users\Jannik\Documents\EuroScope\EDMM-AeroNav_20210326165837-210301-0002.sct
+SECTORTITLE:EDMM-AeroNav_20210326165837-210301-0002.sct
 ARTCC boundary:EDMM_CTR-FULL:
-ARTCC high boundary:EDBB_APP:
-ARTCC high boundary:EDDM_APP:
 ARTCC high boundary:EDDN_APP:
 ARTCC high boundary:EDDP_APP:
-ARTCC high boundary:EDNY_APP:
-ARTCC high boundary:LOWI_APP:
-ARTCC high boundary:LOWL_APP:
-ARTCC high boundary:LOWS_APP:
 ARTCC low boundary:Tower CTR EDDN:
 ARTCC low boundary:Tower CTR EDQM:
+Fixes:ABERU:name
+Fixes:ABERU:symbol
 Fixes:AKANU:name
 Fixes:AKANU:symbol
 Fixes:AKINI:name
 Fixes:AKINI:symbol
-Fixes:BABAV:name
-Fixes:BABAV:symbol
-Fixes:DN411:name
-Fixes:DN411:symbol
-Fixes:DN413:name
-Fixes:DN413:symbol
-Fixes:DN420:name
-Fixes:DN420:symbol
-Fixes:DN421:symbol
-Fixes:DN422:symbol
-Fixes:DN423:name
-Fixes:DN423:symbol
-Fixes:DN424:symbol
-Fixes:DN425:symbol
-Fixes:DN426:name
-Fixes:DN426:symbol
-Fixes:DN427:symbol
-Fixes:DN428:symbol
-Fixes:DN429:name
-Fixes:DN429:symbol
-Fixes:DN430:symbol
-Fixes:DN431:symbol
-Fixes:DN432:symbol
-Fixes:DN434:symbol
-Fixes:DN435:symbol
-Fixes:DN436:name
-Fixes:DN436:symbol
-Fixes:DN450:name
-Fixes:DN450:symbol
-Fixes:DN451:symbol
-Fixes:DN452:symbol
-Fixes:DN453:name
-Fixes:DN453:symbol
-Fixes:DN454:symbol
-Fixes:DN455:symbol
-Fixes:DN456:name
-Fixes:DN456:symbol
-Fixes:DN457:symbol
-Fixes:DN458:symbol
-Fixes:DN459:name
-Fixes:DN459:symbol
-Fixes:DN461:name
-Fixes:DN461:symbol
-Fixes:DN463:name
-Fixes:DN463:symbol
+Fixes:ANELA:name
+Fixes:ANELA:symbol
+Fixes:BISBU:name
+Fixes:BISBU:symbol
 Fixes:DODAS:name
 Fixes:DODAS:symbol
 Fixes:DOSIS:name
@@ -83,20 +26,18 @@ Fixes:ERETO:name
 Fixes:ERETO:symbol
 Fixes:ERTES:name
 Fixes:ERTES:symbol
-Fixes:GORKO:name
-Fixes:GORKO:symbol
 Fixes:IBAGA:name
 Fixes:IBAGA:symbol
 Fixes:KULOK:name
 Fixes:KULOK:symbol
+Fixes:LASGA:name
+Fixes:LASGA:symbol
 Fixes:LETKU:name
 Fixes:LETKU:symbol
 Fixes:LONLI:name
 Fixes:LONLI:symbol
 Fixes:NIBIL:name
 Fixes:NIBIL:symbol
-Fixes:OSNUB:name
-Fixes:OSNUB:symbol
 Fixes:PEROX:name
 Fixes:PEROX:symbol
 Fixes:PIVIR:name
@@ -105,8 +46,6 @@ Fixes:RODIS:name
 Fixes:RODIS:symbol
 Fixes:ROTEN:name
 Fixes:ROTEN:symbol
-Fixes:RUDNO:name
-Fixes:RUDNO:symbol
 Fixes:SUKAD:name
 Fixes:SUKAD:symbol
 Fixes:SULUS:name
@@ -115,119 +54,12 @@ Fixes:TABAT:name
 Fixes:TABAT:symbol
 Fixes:UPALA:name
 Fixes:UPALA:symbol
-Fixes:VELIS:name
-Fixes:VELIS:symbol
-Fixes:VENUB:name
-Fixes:VENUB:symbol
-Free Text:EDQC Grounddesignators\1:freetext
-Free Text:EDQC Grounddesignators\2:freetext
-Free Text:EDQC Grounddesignators\3:freetext
-Free Text:EDQC Grounddesignators\A:freetext
-Free Text:EDQC Grounddesignators\B:freetext
-Free Text:EDQC Grounddesignators\B:freetext
-Free Text:EDQC Grounddesignators\B:freetext
-Free Text:EDQC Grounddesignators\C:freetext
-Free Text:EDQD Grounddesignators\A:freetext
-Free Text:EDQD Grounddesignators\B:freetext
-Free Text:EDQD Grounddesignators\C:freetext
-Free Text:EDQD Grounddesignators\D:freetext
-Free Text:EDQM Grounddesignators\A:freetext
-Free Text:EDQM Grounddesignators\B:freetext
-Free Text:EDQM Grounddesignators\B:freetext
-Free Text:EDQT Grounddesignators\A:freetext
-Free Text:EDQT Grounddesignators\A:freetext
-Free Text:EDQT Grounddesignators\B:freetext
-Free Text:EDQT Grounddesignators\C:freetext
-Free Text:EDQT Grounddesignators\C:freetext
-Geo:EDQC Groundlayout:
-Geo:EDQD Groundlayout:
-Geo:EDQK Groundlayout:
-Geo:EDQT Groundlayout:
-Geo:ETIC Groundlayout:
-Geo:GEO:
-Regions:EDQC Groundlayout:polygon
-Regions:EDQK Groundlayout:polygon
-Regions:ETIC Groundlayout:polygon
 Runways:EDDN 10-28:centerline
-Runways:EDDN 10-28:extended centerline 1
-Runways:EDDN 10-28:extended centerline 1 left base
-Runways:EDDN 10-28:extended centerline 1 left ticks
-Runways:EDDN 10-28:extended centerline 1 left vectoring
-Runways:EDDN 10-28:extended centerline 1 right base
-Runways:EDDN 10-28:extended centerline 1 right ticks
-Runways:EDDN 10-28:extended centerline 1 right vectoring
-Runways:EDDN 10-28:extended centerline 2
-Runways:EDDN 10-28:extended centerline 2 left base
-Runways:EDDN 10-28:extended centerline 2 left ticks
-Runways:EDDN 10-28:extended centerline 2 left vectoring
-Runways:EDDN 10-28:extended centerline 2 right base
-Runways:EDDN 10-28:extended centerline 2 right ticks
-Runways:EDDN 10-28:extended centerline 2 right vectoring
-Runways:EDDN 10-28:name
 Runways:EDQC 12-30:centerline
-Runways:EDQC 12-30:extended centerline 1
-Runways:EDQC 12-30:extended centerline 1 left base
-Runways:EDQC 12-30:extended centerline 1 left ticks
-Runways:EDQC 12-30:extended centerline 1 left vectoring
-Runways:EDQC 12-30:extended centerline 1 right base
-Runways:EDQC 12-30:extended centerline 1 right ticks
-Runways:EDQC 12-30:extended centerline 1 right vectoring
-Runways:EDQC 12-30:extended centerline 2
-Runways:EDQC 12-30:extended centerline 2 left base
-Runways:EDQC 12-30:extended centerline 2 left ticks
-Runways:EDQC 12-30:extended centerline 2 left vectoring
-Runways:EDQC 12-30:extended centerline 2 right base
-Runways:EDQC 12-30:extended centerline 2 right ticks
-Runways:EDQC 12-30:extended centerline 2 right vectoring
-Runways:EDQC 12-30:name
 Runways:EDQD 06-24:centerline
-Runways:EDQD 06-24:extended centerline 1
-Runways:EDQD 06-24:extended centerline 1 left base
-Runways:EDQD 06-24:extended centerline 1 left ticks
-Runways:EDQD 06-24:extended centerline 1 left vectoring
-Runways:EDQD 06-24:extended centerline 1 right base
-Runways:EDQD 06-24:extended centerline 1 right ticks
-Runways:EDQD 06-24:extended centerline 1 right vectoring
-Runways:EDQD 06-24:extended centerline 2
-Runways:EDQD 06-24:extended centerline 2 left base
-Runways:EDQD 06-24:extended centerline 2 left ticks
-Runways:EDQD 06-24:extended centerline 2 left vectoring
-Runways:EDQD 06-24:extended centerline 2 right base
-Runways:EDQD 06-24:extended centerline 2 right ticks
-Runways:EDQD 06-24:extended centerline 2 right vectoring
-Runways:EDQD 06-24:name
 Runways:EDQM 08-26:centerline
-Runways:EDQM 08-26:extended centerline 1
-Runways:EDQM 08-26:extended centerline 1 left base
-Runways:EDQM 08-26:extended centerline 1 left ticks
-Runways:EDQM 08-26:extended centerline 1 left vectoring
-Runways:EDQM 08-26:extended centerline 1 right base
-Runways:EDQM 08-26:extended centerline 1 right ticks
-Runways:EDQM 08-26:extended centerline 1 right vectoring
-Runways:EDQM 08-26:extended centerline 2
-Runways:EDQM 08-26:extended centerline 2 left base
-Runways:EDQM 08-26:extended centerline 2 left ticks
-Runways:EDQM 08-26:extended centerline 2 left vectoring
-Runways:EDQM 08-26:extended centerline 2 right base
-Runways:EDQM 08-26:extended centerline 2 right ticks
-Runways:EDQM 08-26:extended centerline 2 right vectoring
-Runways:EDQM 08-26:name
 Runways:EDQT 11-29:centerline
-Runways:EDQT 11-29:extended centerline 1
-Runways:EDQT 11-29:extended centerline 1 left base
-Runways:EDQT 11-29:extended centerline 1 left ticks
-Runways:EDQT 11-29:extended centerline 1 left vectoring
-Runways:EDQT 11-29:extended centerline 1 right base
-Runways:EDQT 11-29:extended centerline 1 right ticks
-Runways:EDQT 11-29:extended centerline 1 right vectoring
-Runways:EDQT 11-29:extended centerline 2
-Runways:EDQT 11-29:extended centerline 2 left base
-Runways:EDQT 11-29:extended centerline 2 left ticks
-Runways:EDQT 11-29:extended centerline 2 left vectoring
-Runways:EDQT 11-29:extended centerline 2 right base
-Runways:EDQT 11-29:extended centerline 2 right ticks
-Runways:EDQT 11-29:extended centerline 2 right vectoring
-Runways:EDQT 11-29:name
+Runways:ETIC 14-32:centerline
 VORs:DKB:name
 VORs:DKB:symbol
 VORs:ERL:name
@@ -246,13 +78,6 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
-TAGFAMILY:Topsky-Radar APP
-WINDOWAREA:48.917523:9.705007:50.116721:12.740974
-PLUGIN:Display Elements:.edr:10:Restricted area EDMM
-PLUGIN:Display Elements:.mrva:13:EDMM MRVA:14:EDMM MRVA
-PLUGIN:Display Elements:.sid10:7:EDDN SID 10
-PLUGIN:Display Elements:.sid28:7:EDDN SID 28
-PLUGIN:Display Elements:.star:6:EDDN STAR
-PLUGIN:Display Elements:.tran10:6:EDDN TRAN 10
-PLUGIN:Display Elements:.tran28:6:EDDN TRAN 28
-PLUGIN:Display Elements:commands:.mrva:.sid10:.sid28:.edr:.star:.tran10:.tran28
+TAGFAMILY:Alternate Full Datablock
+WINDOWAREA:48.753970:8.763123:51.087303:14.670340
+PLUGIN:EsCenterLines:Active:2
