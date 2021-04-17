@@ -3,32 +3,31 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
-Airports:EDDG:name
-Airports:EDDH:name
-Airports:EDDK:name
-Airports:EDDL:name
-Airports:EDDM:name
-Airports:EDDN:name
-Airports:EDDP:name
-Airports:EDDR:name
-Airports:EDDS:name
-Airports:EDDT:name
-Airports:EDDV:name
-Airports:EDDW:name
-Airports:EDFH:name
-Airports:EDGS:name
-Airports:EDHI:name
-Airports:EDKZ:name
-Airports:EDOP:name
-Airports:EDRK:name
 ARTCC boundary:EDMM_CTR-FULL:
-ARTCC high boundary:EDBB_APP:
 ARTCC high boundary:EDDM_APP:
 ARTCC high boundary:EDDN_APP:
 ARTCC high boundary:EDDP_APP:
-ARTCC high boundary:LOWI_APP:
-ARTCC high boundary:LOWL_APP:
-ARTCC high boundary:LOWS_APP:
+ARTCC high boundary:EDJA_APP:
+ARTCC low boundary:Airspace C EDDM:
+ARTCC low boundary:Airspace D EDDC:
+ARTCC low boundary:Airspace D EDDN:
+ARTCC low boundary:Airspace D EDDP:
+ARTCC low boundary:Tower CTR EDDC:
+ARTCC low boundary:Tower CTR EDDE:
+ARTCC low boundary:Tower CTR EDDM:
+ARTCC low boundary:Tower CTR EDDN:
+ARTCC low boundary:Tower CTR EDDP:
+ARTCC low boundary:Tower CTR EDJA:
+ARTCC low boundary:Tower CTR EDMA:
+ARTCC low boundary:Tower CTR EDMO:
+ARTCC low boundary:Tower CTR EDNY:
+ARTCC low boundary:Tower CTR EDQM:
+ARTCC low boundary:Tower CTR ETEB:
+ARTCC low boundary:Tower CTR ETHL:
+ARTCC low boundary:Tower CTR ETIC:
+ARTCC low boundary:Tower CTR ETSI:
+ARTCC low boundary:Tower CTR ETSL:
+ARTCC low boundary:Tower CTR ETSN:
 Fixes:AGNAV:name
 Fixes:AGNAV:symbol
 Fixes:AKIMA:name
@@ -37,14 +36,18 @@ Fixes:AKUDI:name
 Fixes:AKUDI:symbol
 Fixes:ALAXA:name
 Fixes:ALAXA:symbol
+Fixes:ANDEC:name
+Fixes:ANDEC:symbol
 Fixes:ASPAT:name
 Fixes:ASPAT:symbol
-Fixes:BADVI:name
-Fixes:BADVI:symbol
+Fixes:BAMKI:name
+Fixes:BAMKI:symbol
 Fixes:BEPAS:name
 Fixes:BEPAS:symbol
 Fixes:BETOS:name
 Fixes:BETOS:symbol
+Fixes:BIBAG:name
+Fixes:BIBAG:symbol
 Fixes:BIRKA:name
 Fixes:BIRKA:symbol
 Fixes:BOKSO:name
@@ -53,144 +56,134 @@ Fixes:BURAM:name
 Fixes:BURAM:symbol
 Fixes:DEXIT:name
 Fixes:DEXIT:symbol
-Fixes:DODAS:name
-Fixes:DODAS:symbol
+Fixes:DISUN:name
+Fixes:DISUN:symbol
 Fixes:DOLUP:name
 Fixes:DOLUP:symbol
 Fixes:ELMEM:name
 Fixes:ELMEM:symbol
-Fixes:ENITA:name
-Fixes:ENITA:symbol
-Fixes:ERSIL:name
-Fixes:ERSIL:symbol
-Fixes:ESEGA:name
-Fixes:ESEGA:symbol
 Fixes:ESEGU:name
 Fixes:ESEGU:symbol
 Fixes:EXUSI:name
 Fixes:EXUSI:symbol
-Fixes:GAVLI:name
-Fixes:GAVLI:symbol
-Fixes:GIVMI:name
-Fixes:GIVMI:symbol
-Fixes:GORKO:name
-Fixes:GORKO:symbol
-Fixes:INPUD:name
-Fixes:INPUD:symbol
+Fixes:GASKA:name
+Fixes:GASKA:symbol
+Fixes:GOGEM:name
+Fixes:GOGEM:symbol
+Fixes:INBED:name
+Fixes:INBED:symbol
 Fixes:INPUL:name
 Fixes:INPUL:symbol
+Fixes:KEGOS:name
+Fixes:KEGOS:symbol
 Fixes:KENIG:name
 Fixes:KENIG:symbol
-Fixes:KERAX:name
-Fixes:KERAX:symbol
 Fixes:KUMER:name
 Fixes:KUMER:symbol
 Fixes:KUNOD:name
 Fixes:KUNOD:symbol
-Fixes:LAMSI:name
-Fixes:LAMSI:symbol
-Fixes:LANDU:name
-Fixes:LANDU:symbol
-Fixes:LATLO:name
-Fixes:LATLO:symbol
+Fixes:LASGA:name
+Fixes:LASGA:symbol
+Fixes:LIKDA:name
+Fixes:LIKDA:symbol
 Fixes:LUPOL:name
 Fixes:LUPOL:symbol
-Fixes:MADEB:name
-Fixes:MADEB:symbol
+Fixes:LURER:name
+Fixes:LURER:symbol
 Fixes:MAREM:name
 Fixes:MAREM:symbol
+Fixes:MEBEK:name
+Fixes:MEBEK:symbol
+Fixes:MERSI:name
+Fixes:MERSI:symbol
 Fixes:MILGU:name
 Fixes:MILGU:symbol
-Fixes:NAPSA:name
-Fixes:NAPSA:symbol
+Fixes:MITNU:name
+Fixes:MITNU:symbol
+Fixes:NATAG:name
+Fixes:NATAG:symbol
 Fixes:NIBIL:name
 Fixes:NIBIL:symbol
 Fixes:NUKRO:name
 Fixes:NUKRO:symbol
 Fixes:ODOMO:name
 Fixes:ODOMO:symbol
+Fixes:OLPIX:name
+Fixes:OLPIX:symbol
+Fixes:OMELO:name
+Fixes:OMELO:symbol
 Fixes:OSKAN:name
 Fixes:OSKAN:symbol
+Fixes:OSTES:name
+Fixes:OSTES:symbol
 Fixes:OTRES:name
 Fixes:OTRES:symbol
 Fixes:PETIX:name
 Fixes:PETIX:symbol
-Fixes:PITAR:name
-Fixes:PITAR:symbol
 Fixes:RAVED:name
 Fixes:RAVED:symbol
-Fixes:ROKIL:name
-Fixes:ROKIL:symbol
+Fixes:RENLO:name
+Fixes:RENLO:symbol
+Fixes:RIDAR:name
+Fixes:RIDAR:symbol
+Fixes:ROBEL:name
+Fixes:ROBEL:symbol
+Fixes:RODIS:name
+Fixes:RODIS:symbol
+Fixes:ROSAB:name
+Fixes:ROSAB:symbol
 Fixes:RUDAK:name
 Fixes:RUDAK:symbol
+Fixes:RUFGA:name
+Fixes:RUFGA:symbol
+Fixes:SULUS:name
+Fixes:SULUS:symbol
 Fixes:TABAT:name
 Fixes:TABAT:symbol
-Fixes:TADUV:name
-Fixes:TADUV:symbol
 Fixes:TAMEB:name
 Fixes:TAMEB:symbol
 Fixes:TEKSI:name
 Fixes:TEKSI:symbol
+Fixes:TESDU:name
+Fixes:TESDU:symbol
+Fixes:TIRUL:name
+Fixes:TIRUL:symbol
+Fixes:TITIG:name
+Fixes:TITIG:symbol
 Fixes:TOBSO:name
 Fixes:TOBSO:symbol
-Fixes:TULSI:name
-Fixes:TULSI:symbol
+Fixes:TRAUN:name
+Fixes:TRAUN:symbol
 Fixes:UMTEX:name
 Fixes:UMTEX:symbol
-Fixes:UNKUL:name
-Fixes:UNKUL:symbol
 Fixes:UPALA:name
 Fixes:UPALA:symbol
 Fixes:VAGAB:name
 Fixes:VAGAB:symbol
-Fixes:VESUB:name
-Fixes:VESUB:symbol
-Fixes:XEBIX:name
-Fixes:XEBIX:symbol
-Geo:GEO:
-NDBs:PSA:name
-NDBs:PSA:symbol
-VORs:CHA:name
-VORs:CHA:symbol
+Fixes:VELIS:name
+Fixes:VELIS:symbol
+Fixes:VESIX:name
+Fixes:VESIX:symbol
+NDBs:RTT:name
+NDBs:RTT:symbol
 VORs:DKB:name
 VORs:DKB:symbol
-VORs:ERL:name
-VORs:ERL:symbol
-VORs:FUL:name
-VORs:FUL:symbol
-VORs:GED:name
-VORs:GED:symbol
 VORs:HDO:name
 VORs:HDO:symbol
-VORs:MAG:name
-VORs:MAG:symbol
-VORs:MTR:name
-VORs:MTR:symbol
-VORs:NIE:name
-VORs:NIE:symbol
-VORs:NTM:name
-VORs:NTM:symbol
-VORs:OSN:name
-VORs:OSN:symbol
-VORs:TAU:name
-VORs:TAU:symbol
-VORs:WUR:name
-VORs:WUR:symbol
-VORs:WYP:name
-VORs:WYP:symbol
+VORs:OKG:name
+VORs:OKG:symbol
 SHOWC:1
-SHOWSB:1
-BELOW:1600
+SHOWSB:0
+BELOW:0
 ABOVE:0
 LEADER:5
-SHOWLEADER:1
+SHOWLEADER:0
 TURNLEADER:0
 HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
-TAGFAMILY:Topsky-Radar CTR
-WINDOWAREA:46.259249:3.850000:52.682557:20.111658
-PLUGIN:Display Elements:.mrva:13:EDMM MRVA Germany:14:EDMM MRVA Germany
-PLUGIN:Display Elements:commands:.mrva
+TAGFAMILY:Alternate Full Data Block
+WINDOWAREA:46.641840:6.296566:51.175174:17.773443
+PLUGIN:EsCenterLines:Active:2
