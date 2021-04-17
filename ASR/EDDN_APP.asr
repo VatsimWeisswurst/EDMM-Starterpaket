@@ -6,6 +6,7 @@ SECTORTITLE:
 ARTCC boundary:EDMM_CTR-FULL:
 ARTCC high boundary:EDDN_APP:
 ARTCC high boundary:EDDP_APP:
+ARTCC low boundary:Airspace D EDDN:
 ARTCC low boundary:Tower CTR EDDN:
 ARTCC low boundary:Tower CTR EDQM:
 Fixes:ABERU:name
