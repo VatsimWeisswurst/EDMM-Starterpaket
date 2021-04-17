@@ -271,13 +271,11 @@ Free Text:EDNY Grounddesignators\N3:freetext
 Geo:EDDP Groundlayout Region Style (EDMM):
 Geo:EDJA Groundlayout REGION Style:
 Geo:EDNY Groundlayout REGION Style:
-Geo:EDQA Groundlayout:
 NDBs:RTT:name
 NDBs:RTT:symbol
 Regions:EDDP Groundlayout (EDMM):polygon
 Regions:EDJA Groundlayout:polygon
 Regions:EDNY Groundlayout:polygon
-Regions:EDQA Groundlayout:polygon
 Runways:EDDM 08L-26R:centerline
 Runways:EDDM 08R-26L:centerline
 Runways:EDDN 10-28:centerline
