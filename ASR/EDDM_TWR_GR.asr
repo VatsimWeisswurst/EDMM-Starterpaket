@@ -1,8 +1,8 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\Jannik\Documents\EuroScope\EDMM-AeroNav_20210326165837-210301-0002.sct
-SECTORTITLE:EDMM-AeroNav_20210326165837-210301-0002.sct
+SECTORFILE:
+SECTORTITLE:
 ARTCC high boundary:Restricted area EDMM ED-R1 Garching:
 ARTCC low boundary:RMZ EDNX:
 ARTCC low boundary:Tower CTR EDDM:
