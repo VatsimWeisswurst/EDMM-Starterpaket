@@ -1,8 +1,8 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\Jannik\Documents\EuroScope\EDMM-AeroNav_20210326165837-210301-0002.sct
-SECTORTITLE:EDMM-AeroNav_20210326165837-210301-0002.sct
+SECTORFILE:
+SECTORTITLE:
 ARTCC boundary:EDMM_CTR-FULL:
 ARTCC high boundary:EDDN_APP:
 ARTCC high boundary:EDDP_APP:
@@ -78,6 +78,6 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
-TAGFAMILY:Alternate Full Datablock
+TAGFAMILY:Alternate Full Data Block
 WINDOWAREA:48.753970:8.763123:51.087303:14.670340
 PLUGIN:EsCenterLines:Active:2
