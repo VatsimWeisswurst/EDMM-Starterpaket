@@ -59,10 +59,40 @@ Fixes:UMTEX:name
 Fixes:UMTEX:symbol
 Fixes:VAVOR:name
 Fixes:VAVOR:symbol
+Free Text:EDMA Grounddesignators\A:freetext
+Free Text:EDMA Grounddesignators\AP1+2:freetext
+Free Text:EDMA Grounddesignators\AP3:freetext
+Free Text:EDMA Grounddesignators\AP4:freetext
+Free Text:EDMA Grounddesignators\AP5:freetext
+Free Text:EDMA Grounddesignators\AP6:freetext
+Free Text:EDMA Grounddesignators\B:freetext
+Free Text:EDMA Grounddesignators\C:freetext
+Free Text:EDMA Grounddesignators\D:freetext
+Free Text:EDMA Grounddesignators\E:freetext
+Free Text:EDMA Grounddesignators\G:freetext
+Free Text:EDMA Grounddesignators\M:freetext
+Free Text:EDMA Grounddesignators\M:freetext
+Free Text:EDMA Grounddesignators\M:freetext
+Free Text:EDMA Grounddesignators\M:freetext
+Free Text:EDMA Grounddesignators\S:freetext
+Free Text:EDMO Grounddesignators\A:freetext
+Free Text:EDMO Grounddesignators\A:freetext
+Free Text:EDMO Grounddesignators\A:freetext
+Free Text:EDMO Grounddesignators\A:freetext
+Free Text:EDMO Grounddesignators\B:freetext
+Free Text:EDMO Grounddesignators\C:freetext
+Free Text:EDMO Grounddesignators\D:freetext
+Free Text:EDMO Grounddesignators\E:freetext
+Free Text:EDMO Grounddesignators\E:freetext
+Free Text:EDMO Grounddesignators\H:freetext
+Geo:EDMA Groundlayout REGION Style:
+Geo:EDMO Groundlayout REGION Style:
 NDBs:ALG:name
 NDBs:ALG:symbol
 NDBs:MIQ:name
 NDBs:MIQ:symbol
+Regions:EDMA Groundlayout:polygon
+Regions:EDMO Groundlayout:polygon
 Runways:EDDM 08L-26R:centerline
 Runways:EDDM 08R-26L:centerline
 Runways:EDMA 07-25:centerline
