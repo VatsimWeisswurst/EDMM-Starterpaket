@@ -1,0 +1,14 @@
+ARR
+m_Visible:0
+m_X:512
+m_Y:868
+m_LineNumber:10
+m_Resizable:1
+m_OrderingColumn:5
+m_HeaderOnly:0
+m_Column:Callsign:8:0:9:0:0:1::::9:0.0
+m_Column:Type:6:1:78:0:0:1::::1:0.0
+m_Column:Rwy:4:1:47:19:0:1::::0:0.0
+m_Column:Gate:4:0:2:1:0:1:Ground Radar plugin:Ground Radar plugin::1:0.0
+m_Column:Text:6:1:66:29:29:1::::0:0.0
+END
