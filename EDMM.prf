@@ -12,6 +12,7 @@ Settings	Settingsfile	\EDMM\Settings\General.txt
 Settings	SettingsfileSCREEN	\EDMM\SETTINGS\Screen.txt
 Settings	SettingsfileCONFLICT	\EDMM\SETTINGS\ConflictListConfiguration.txt
 Settings	SettingsfileVCCS	\EDMM\SETTINGS\VCCS.txt
+Settings	SettingsfilePILOTING	\EDMM\SETTINGS\Piloting.txt
 Settings	alias	\EDMM\Alias\alias.txt
 Settings	AtisFolder	\EDMM\ATIS\AtisFiles.txt
 Settings	airlines	\EDMM\ICAO\ICAO_Airlines.txt
