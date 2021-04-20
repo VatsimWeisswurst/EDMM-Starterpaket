@@ -1,30 +1,3 @@
-Settings	SettingsfileSYMBOLOGY	\EDMM\SETTINGS\Symbology.txt
-Settings	SettingsfileVOICE	\EDMM\SETTINGS\VoiceChannels.txt
-Settings	SettingsfilePROFILE	\EDMM\SETTINGS\Profiles.txt
-Settings	SettingsfileTAGS	\EDMM\Settings\Tags.txt
-Settings	SettingsfileSIL	\EDMM\SETTINGS\SectorInboundList.txt
-Settings	SettingsfileSEL	\EDMM\SETTINGS\SectorExitList.txt
-Settings	SettingsfileDEP	\EDMM\SETTINGS\DepartureList.txt
-Settings	SettingsfileARR	\EDMM\SETTINGS\ArrivalList.txt
-Settings	SettingsfileFP	\EDMM\SETTINGS\FPList.txt
-Settings	SettingsfilePLUGINS	\EDMM\SETTINGS\Plugins.txt
-Settings	Settingsfile	\EDMM\Settings\General.txt
-Settings	SettingsfileSCREEN	\EDMM\SETTINGS\Screen.txt
-Settings	SettingsfileCONFLICT	\EDMM\SETTINGS\ConflictListConfiguration.txt
-Settings	SettingsfileVCCS	\EDMM\SETTINGS\VCCS.txt
-Settings	SettingsfilePILOTING	\EDMM\SETTINGS\Piloting.txt
-Settings	alias	\EDMM\Alias\alias.txt
-Settings	AtisFolder	\EDMM\ATIS\AtisFiles.txt
-Settings	airlines	\EDMM\ICAO\ICAO_Airlines.txt
-Settings	airports	\EDMM\ICAO\ICAO_Airports.txt
-Settings	aircraft	\EDMM\ICAO\ICAO_Aircraft.txt
-Settings	airways	\EDMM\NavData\airway.txt
-Settings	airportcoords	\EDMM\NavData\icao.txt
-Settings	AselKey	5111808
-Settings	FreqKey	3604480
-Settings	sector	\EDMM-AeroNav_20210128124215-210101-0001.sct
-Settings	sector	\EDMM-AeroNav_20210128124215-210101-0001.sct
-
 ASRFastKeys	1	\EDMM\ASR\EDDM_GND_GR.asr
 ASRFastKeys	2	\EDMM\ASR\EDDM_TWR_GR.asr
 ASRFastKeys	3	\EDMM\ASR\EDDM_APP.asr
@@ -33,21 +6,61 @@ ASRFastKeys	5	\EDMM\ASR\EDDN_TWR_GR.asr
 ASRFastKeys	6	\EDMM\ASR\EDDN_APP.asr
 ASRFastKeys	7	\EDMM\ASR\EDMM_CTR.asr
 
-
-Plugins	Plugin0	\EDMM\Plugins\ModeS.dll
-Plugins	Plugin0Display0	ModeS Function Relay (no display)
+Plugins	Plugin0	\EDMM\Plugins\DisplayElements.dll 
+Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin0Display1	SMR radar display
-Plugins	Plugin0Display2	Standard ES radar screen
-Plugins	Plugin0Display3	Ground Radar display
-Plugins	Plugin1	\EDMM\Plugins\AfvEuroScopeBridge.dll
-Plugins	Plugin1Display0	Ground Radar display
-Plugins	Plugin1Display1	Standard ES radar screen
-Plugins	Plugin1Display2	SMR radar display
-Plugins	Plugin1Display3	ModeS Function Relay (no display)
-Plugins	Plugin2	\EDMM\Plugins\GRPlugin\GRplugin.dll
-Plugins	Plugin2Display0	Ground Radar display
-Plugins	Plugin3	\EDMM\Plugins\Topsky\TopSky.dll
-Plugins	Plugin3Display0	Standard ES radar screen
-Plugins Plugin3Display1 Ground Radar display
+Plugins	Plugin1	\EDMM\Plugins\ESTagItems.dll
+Plugins	Plugin1Display0	Standard ES radar screen
+Plugins	Plugin1Display1	SMR radar display
+Plugins	Plugin2	\EDMM\Plugins\vSMR.dll
+Plugins	Plugin2Display0	SMR radar display
+Plugins	Plugin3	\EDMM\Plugins\ModeS.dll
+Plugins	Plugin3Display0	ModeS Function Relay (no display)
+Plugins	Plugin3Display1	SMR radar display
+Plugins	Plugin3Display2	Standard ES radar screen
+Plugins	Plugin3Display3	Ground Radar display
+Plugins	Plugin4	\EDMM\Plugins\AfvEuroScopeBridge.dll
+Plugins	Plugin4Display0	Ground Radar display
+Plugins	Plugin4Display1	Standard ES radar screen
+Plugins	Plugin4Display2	SMR radar display
+Plugins	Plugin4Display3	ModeS Function Relay (no display)
+Plugins	Plugin5	\EDMM\Plugins\GRPlugin\GRplugin.dll
+Plugins	Plugin5Display0	Ground Radar display
+Plugins	Plugin6	\EDMM\Plugins\Topsky\TopSky.dll
+Plugins	Plugin6Display0	Standard ES radar screen
 
 RecentFiles	Recent1	\EDMM\ASR\EDDM_GND_GR.asr
+
+Settings	AselKey	5111808
+Settings	AtisFolder	\EDMM\ATIS\AtisFiles.txt
+Settings	FreqKey	3604480
+Settings	Settingsfile	\EDMM\Settings\General.txt
+Settings	SettingsfileARR	\EDMM\SETTINGS\ArrivalList.txt
+Settings	SettingsfileCONFLICT	\EDMM\SETTINGS\ConflictListConfiguration.txt
+Settings	SettingsfileDEP	\EDMM\SETTINGS\DepartureList.txt
+Settings	SettingsfileFP	\EDMM\SETTINGS\FPList.txt
+Settings	SettingsfilePILOTING	\EDMM\SETTINGS\Piloting.txt
+Settings	SettingsfilePLUGINS	\EDMM\SETTINGS\Plugins.txt
+Settings	SettingsfilePROFILE	\EDMM\SETTINGS\Profiles.txt
+Settings	SettingsfileSCREEN	\EDMM\SETTINGS\Screen.txt
+Settings	SettingsfileSEL	\EDMM\SETTINGS\SectorExitList.txt
+Settings	SettingsfileSIL	\EDMM\SETTINGS\SectorInboundList.txt
+Settings	SettingsfileSYMBOLOGY	\EDMM\SETTINGS\Symbology.txt
+Settings	SettingsfileTAGS	\EDMM\Settings\Tags.txt
+Settings	SettingsfileVCCS	\EDMM\SETTINGS\VCCS.txt
+Settings	SettingsfileVOICE	\EDMM\SETTINGS\VoiceChannels.txt
+Settings	aircraft	\EDMM\ICAO\ICAO_Aircraft.txt
+Settings	airlines	\EDMM\ICAO\ICAO_Airlines.txt
+Settings	airportcoords	\EDMM\NavData\icao.txt
+Settings	airports	\EDMM\ICAO\ICAO_Airports.txt
+Settings	airways	\EDMM\NavData\airway.txt
+Settings	alias	\EDMM\Alias\alias.txt
+Settings	sector	\EDMM-AeroNav_20210328213853-210301-0003.sct
+Settings	sector	\EDMM-AeroNav_20210328213853-210301-0003.sct
+
+TeamSpeakVccs	Ts3DialogBottom	600
+TeamSpeakVccs	Ts3DialogLeft	0
+TeamSpeakVccs	Ts3DialogRight	882
+TeamSpeakVccs	Ts3DialogTop	0
+TeamSpeakVccs	TsVccsMiniControlX	729
+TeamSpeakVccs	TsVccsMiniControlY	24
