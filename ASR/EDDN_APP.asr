@@ -55,6 +55,11 @@ Fixes:TABAT:name
 Fixes:TABAT:symbol
 Fixes:UPALA:name
 Fixes:UPALA:symbol
+Free Text:EDQM Grounddesignators\A:freetext
+Free Text:EDQM Grounddesignators\B:freetext
+Free Text:EDQM Grounddesignators\B:freetext
+Geo:EDQM Groundlayout REGION SYTLE:
+Regions:EDQM Groundlayout:polygon
 Runways:EDDN 10-28:centerline
 Runways:EDQC 12-30:centerline
 Runways:EDQD 06-24:centerline
