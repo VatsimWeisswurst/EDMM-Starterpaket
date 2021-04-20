@@ -4,147 +4,107 @@ DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
 ARTCC boundary:EDMM_CTR-FULL:
-ARTCC high boundary:EDBB_APP:
 ARTCC high boundary:EDDM_APP:
-ARTCC high boundary:EDDN_APP:
-ARTCC high boundary:EDDP_APP:
-ARTCC high boundary:EDNY_APP:
+ARTCC high boundary:EDJA_APP:
 ARTCC high boundary:LOWI_APP:
-ARTCC high boundary:LOWL_APP:
 ARTCC high boundary:LOWS_APP:
+ARTCC high boundary:Release line EDMM EDMM-LOVV:
 ARTCC low boundary:Airspace C EDDM:
 ARTCC low boundary:Tower CTR EDDM:
 ARTCC low boundary:Tower CTR EDMA:
 ARTCC low boundary:Tower CTR EDMO:
-Fixes:ABGAS:name
-Fixes:ABGAS:symbol
-Fixes:AKANU:name
-Fixes:AKANU:symbol
-Fixes:AMADI:name
-Fixes:AMADI:symbol
-Fixes:AMEXO:name
-Fixes:AMEXO:symbol
-Fixes:AMPEG:name
-Fixes:AMPEG:symbol
-Fixes:ANDEC:name
-Fixes:ANDEC:symbol
+Fixes:AKINI:name
+Fixes:AKINI:symbol
 Fixes:ANKER:name
 Fixes:ANKER:symbol
-Fixes:ANORA:name
-Fixes:ANORA:symbol
-Fixes:ARBAX:name
-Fixes:ARBAX:symbol
-Fixes:BAGMI:name
-Fixes:BAGMI:symbol
-Fixes:BAMTA:name
-Fixes:BAMTA:symbol
 Fixes:BETOS:name
 Fixes:BETOS:symbol
-Fixes:BURAM:name
-Fixes:BURAM:symbol
-Fixes:DISUN:name
-Fixes:DISUN:symbol
-Fixes:DODIL:name
-Fixes:DODIL:symbol
+Fixes:BIBAG:name
+Fixes:BIBAG:symbol
 Fixes:EVIVA:name
 Fixes:EVIVA:symbol
-Fixes:EXUSI:name
-Fixes:EXUSI:symbol
 Fixes:GIVMI:name
 Fixes:GIVMI:symbol
-Fixes:GOMAX:name
-Fixes:GOMAX:symbol
-Fixes:IRBIR:name
-Fixes:IRBIR:symbol
+Fixes:INPUD:name
+Fixes:INPUD:symbol
 Fixes:KIRDI:name
 Fixes:KIRDI:symbol
-Fixes:KOGOL:name
-Fixes:KOGOL:symbol
-Fixes:KUNOD:name
-Fixes:KUNOD:symbol
 Fixes:LANDU:name
 Fixes:LANDU:symbol
-Fixes:LELTA:name
-Fixes:LELTA:symbol
-Fixes:LITLI:name
-Fixes:LITLI:symbol
-Fixes:LUPOX:name
-Fixes:LUPOX:symbol
-Fixes:LURER:name
-Fixes:LURER:symbol
-Fixes:MANAL:name
-Fixes:MANAL:symbol
 Fixes:MEBEK:name
 Fixes:MEBEK:symbol
 Fixes:MERSI:name
 Fixes:MERSI:symbol
-Fixes:MITNU:name
-Fixes:MITNU:symbol
 Fixes:NAPSA:name
 Fixes:NAPSA:symbol
-Fixes:NETES:name
-Fixes:NETES:symbol
-Fixes:OBAGA:name
-Fixes:OBAGA:symbol
 Fixes:OBAXA:name
 Fixes:OBAXA:symbol
-Fixes:ODUDA:name
-Fixes:ODUDA:symbol
-Fixes:OSDER:name
-Fixes:OSDER:symbol
-Fixes:OSTES:name
-Fixes:OSTES:symbol
-Fixes:PELOG:name
-Fixes:PELOG:symbol
-Fixes:REDBU:name
-Fixes:REDBU:symbol
-Fixes:REDVO:name
-Fixes:REDVO:symbol
-Fixes:RENLO:name
-Fixes:RENLO:symbol
+Fixes:OLASO:name
+Fixes:OLASO:symbol
+Fixes:RAVED:name
+Fixes:RAVED:symbol
 Fixes:RIDAR:name
 Fixes:RIDAR:symbol
-Fixes:RIXED:name
-Fixes:RIXED:symbol
 Fixes:ROKIL:name
 Fixes:ROKIL:symbol
-Fixes:ROSAB:name
-Fixes:ROSAB:symbol
 Fixes:ROTAX:name
 Fixes:ROTAX:symbol
+Fixes:RUDNO:name
+Fixes:RUDNO:symbol
 Fixes:TULSI:name
 Fixes:TULSI:symbol
 Fixes:TURBU:name
 Fixes:TURBU:symbol
-Fixes:TUSTO:name
-Fixes:TUSTO:symbol
-Fixes:UNKEN:name
-Fixes:UNKEN:symbol
-Fixes:UNKOM:name
-Fixes:UNKOM:symbol
-Fixes:USEMI:name
-Fixes:USEMI:symbol
+Fixes:UMTEX:name
+Fixes:UMTEX:symbol
 Fixes:VAVOR:name
 Fixes:VAVOR:symbol
-Fixes:VESIX:name
-Fixes:VESIX:symbol
-Fixes:XERUM:name
-Fixes:XERUM:symbol
-Geo:GEO:
+Free Text:EDMA Grounddesignators\A:freetext
+Free Text:EDMA Grounddesignators\AP1+2:freetext
+Free Text:EDMA Grounddesignators\AP3:freetext
+Free Text:EDMA Grounddesignators\AP4:freetext
+Free Text:EDMA Grounddesignators\AP5:freetext
+Free Text:EDMA Grounddesignators\AP6:freetext
+Free Text:EDMA Grounddesignators\B:freetext
+Free Text:EDMA Grounddesignators\C:freetext
+Free Text:EDMA Grounddesignators\D:freetext
+Free Text:EDMA Grounddesignators\E:freetext
+Free Text:EDMA Grounddesignators\G:freetext
+Free Text:EDMA Grounddesignators\M:freetext
+Free Text:EDMA Grounddesignators\M:freetext
+Free Text:EDMA Grounddesignators\M:freetext
+Free Text:EDMA Grounddesignators\M:freetext
+Free Text:EDMA Grounddesignators\S:freetext
+Free Text:EDMO Grounddesignators\A:freetext
+Free Text:EDMO Grounddesignators\A:freetext
+Free Text:EDMO Grounddesignators\A:freetext
+Free Text:EDMO Grounddesignators\A:freetext
+Free Text:EDMO Grounddesignators\B:freetext
+Free Text:EDMO Grounddesignators\C:freetext
+Free Text:EDMO Grounddesignators\D:freetext
+Free Text:EDMO Grounddesignators\E:freetext
+Free Text:EDMO Grounddesignators\E:freetext
+Free Text:EDMO Grounddesignators\H:freetext
+Geo:EDMA Groundlayout REGION Style:
+Geo:EDMO Groundlayout REGION Style:
+NDBs:ALG:name
+NDBs:ALG:symbol
 NDBs:MIQ:name
 NDBs:MIQ:symbol
+Regions:EDMA Groundlayout:polygon
+Regions:EDMO Groundlayout:polygon
 Runways:EDDM 08L-26R:centerline
 Runways:EDDM 08R-26L:centerline
 Runways:EDMA 07-25:centerline
 Runways:EDMO 04-22:centerline
-VORs:DKB:name
-VORs:DKB:symbol
-VORs:ERL:name
-VORs:ERL:symbol
 VORs:KPT:name
 VORs:KPT:symbol
+VORs:MAH:name
+VORs:MAH:symbol
 VORs:MEN:symbol
 VORs:NIT:symbol
+VORs:OTT:name
+VORs:OTT:symbol
 VORs:RDG:name
 VORs:RDG:symbol
 VORs:SBG:name
@@ -154,7 +114,7 @@ VORs:WLD:name
 VORs:WLD:symbol
 SHOWC:1
 SHOWSB:1
-BELOW:1700
+BELOW:1550
 ABOVE:0
 LEADER:3
 SHOWLEADER:0
@@ -164,14 +124,6 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
-TAGFAMILY:Topsky-Radar APP
-WINDOWAREA:47.723530:10.248651:48.952150:13.359104
-PLUGIN:Display Elements:.edr:10:Restricted area EDMM
-PLUGIN:Display Elements:.mrva:13:EDMM MRVA:14:EDMM MRVA
-PLUGIN:Display Elements:.sid08:7:EDDM SID 08
-PLUGIN:Display Elements:.sid26:7:EDDM SID 26
-PLUGIN:Display Elements:.star:6:EDDM STAR
-PLUGIN:Display Elements:.tran08:6:EDDM TRAN 08
-PLUGIN:Display Elements:.tran26:6:EDDM TRAN 26
-PLUGIN:Display Elements:commands:.mrva:.sid08:.sid26:.edr:.star:.tran26:.tran08
+TAGFAMILY:Alternate Full Data Block
+WINDOWAREA:47.631672:10.261910:48.965005:13.637463
 PLUGIN:EsCenterLines:Active:2
