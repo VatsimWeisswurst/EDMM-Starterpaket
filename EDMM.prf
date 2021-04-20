@@ -8,7 +8,7 @@ Settings	SettingsfileDEP	\EDMM\SETTINGS\DepartureList.txt
 Settings	SettingsfileARR	\EDMM\SETTINGS\ArrivalList.txt
 Settings	SettingsfileFP	\EDMM\SETTINGS\FPList.txt
 Settings	SettingsfilePLUGINS	\EDMM\SETTINGS\Plugins.txt
-Settings	Settingsfile	\EDMM\Settings\GeneralTopsky.txt
+Settings	Settingsfile	\EDMM\Settings\General.txt
 Settings	SettingsfileSCREEN	\EDMM\SETTINGS\Screen.txt
 Settings	SettingsfileCONFLICT	\EDMM\SETTINGS\ConflictListConfiguration.txt
 Settings	SettingsfileVCCS	\EDMM\SETTINGS\VCCS.txt
