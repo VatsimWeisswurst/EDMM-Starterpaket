@@ -12,4 +12,7 @@ TopSky plugin:ACList/Holding List /m_Column_3:-:2:0:10027:0:0:1:TopSky plugin::
 TopSky plugin:ACList/Holding List /m_Column_4:CFL:4:0:10002:12:39:1:TopSky plugin:TopSky plugin:TopSky plugin
 TopSky plugin:ACList/Holding List /m_Column_5:HPT:6:0:10024:65:0:1:TopSky plugin:TopSky plugin:
 TopSky plugin:ACList/Holding List /m_Column_6:ETO:4:0:10036:0:0:1:TopSky plugin::
+EsCenterLines:color_red:78
+EsCenterLines:color_green:62
+EsCenterLines:color_blue:52
 END
