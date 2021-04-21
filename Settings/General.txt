@@ -125,4 +125,3 @@ m_RubberHeadingRounding:5
 SqawkForSModeTransponder:1000
 m_TransparentTagBackground:1
 m_UseArrDepTagBgColor:0
-END
