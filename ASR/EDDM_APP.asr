@@ -6,6 +6,7 @@ SECTORTITLE:
 ARTCC boundary:EDMM_CTR-FULL:
 ARTCC high boundary:EDDM_APP:
 ARTCC high boundary:EDJA_APP:
+ARTCC high boundary:EDMM_W_APP:
 ARTCC high boundary:LOWI_APP:
 ARTCC high boundary:LOWS_APP:
 ARTCC high boundary:Release line EDMM EDMM-LOVV:
