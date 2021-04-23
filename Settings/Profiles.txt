@@ -26,15 +26,15 @@ ATIS4:EDMA RWY $deprwy(EDMA) /  QNH $altim(EDMA) // EDMO RWY $deprwy(EDMO) / QNH
 PROFILE:EDDM_F_APP:150:5
 ATIS2:This is Muenchen Director - online AT LEAST until ???? UTC
 ATIS3:ATIS on 123.125 - charts on vatsim-germany.org - routes on grd.aero-nav.com
-ATIS4:On inital contact callsign only
+ATIS4:On inital contact callsign only! Turn immediately when instructed.
 PROFILE:EDDM_1_APP:150:5
 ATIS2:This is Muenchen Arrival - online AT LEAST until ???? UTC
 ATIS3:ATIS on 123.125 - charts on vatsim-germany.org - routes on grd.aero-nav.com
-ATIS4:EDMA RWY $deprwy(EDMA) /  QNH $altim(EDMA) // EDMO RWY $deprwy(EDMO) / QNH $altim(EDMO)
+ATIS4:
 PROFILE:EDDM_2_APP:150:5
 ATIS2:This is Muenchen Arrival - online AT LEAST until ???? UTC
 ATIS3:ATIS on 123.125 - charts on vatsim-germany.org - routes on grd.aero-nav.com
-ATIS4:EDMA RWY $deprwy(EDMA) /  QNH $altim(EDMA) // EDMO RWY $deprwy(EDMO) / QNH $altim(EDMO)
+ATIS4:
 PROFILE:EDDM_N_TWR:50:4
 ATIS2:This is Muenchen Tower - online AT LEAST until ???? UTC
 ATIS3:ATIS on 123.125 - charts on vatsim-germany.org - routes on grd.aero-nav.com
@@ -66,11 +66,11 @@ ATIS4:
 PROFILE:EDDM_DEL:20:2
 ATIS2:This is Muenchen Delivery - online AT LEAST until ???? UTC
 ATIS3:ATIS on 123.125 - charts on vatsim-germany.org - routes on grd.aero-nav.com
-ATIS4:PDC datalink EDDM
+ATIS4:PDC available. Facility code [EDDM]
 PROFILE:EDDN_GND:20:3
 ATIS2:This is Nuernberg Ground - online AT LEAST until ???? UTC
 ATIS3:ATIS on 123.075 - charts on vatsim-germany.org - routes on grd.aero-nav.com
-ATIS4:
+ATIS4:PDC available. Facility code [EDDN]
 PROFILE:EDDN_TWR:50:4
 ATIS2:This is Nuernberg Tower - online AT LEAST until ???? UTC
 ATIS3:ATIS on 123.075 - charts on vatsim-germany.org - routes on grd.aero-nav.com
