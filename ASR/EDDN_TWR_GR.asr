@@ -14,6 +14,7 @@ Fixes:DN-S:name
 Fixes:DN-S:symbol
 Geo:EDMM Highway:
 Geo:EDMM River:
+Regions:EDDN Groundlayout:polygon
 Runways:EDDN 10-28:centerline
 SHOWC:1
 SHOWSB:0
@@ -30,5 +31,7 @@ DisplayRotation:352.00000
 TAGFAMILY:Matias (built in)
 WINDOWAREA:49.331381:10.702394:49.656740:11.526094
 PLUGIN:EsCenterLines:Active:2
+PLUGIN:Ground Radar plugin:HideMapData:GND
+PLUGIN:Ground Radar plugin:ShowMapData:TWR
 PLUGIN:Ground Radar plugin:TowerMode:EDDN
 PLUGIN:TopSky plugin:NoDraw:1
