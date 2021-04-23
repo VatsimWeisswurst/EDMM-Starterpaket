@@ -18,6 +18,7 @@ Geo:EDMM Highway:
 Geo:EDMM River:
 NDBs:MIQ:name
 NDBs:MIQ:symbol
+Regions:EDDM Groundlayout:polygon
 Runways:EDDM 08L-26R:centerline
 Runways:EDDM 08R-26L:centerline
 VORs:OTT:name
@@ -26,10 +27,10 @@ SHOWC:1
 SHOWSB:0
 BELOW:1550
 ABOVE:0
-LEADER:-1
-SHOWLEADER:1
+LEADER:0
+SHOWLEADER:0
 TURNLEADER:0
-HISTORY_DOTS:5
+HISTORY_DOTS:0
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
@@ -39,5 +40,7 @@ WINDOWAREA:48.190442:11.417172:48.519665:12.250655
 PLUGIN:EsCenterLines:Active:2
 PLUGIN:ESCenterlines:Display Active:1
 PLUGIN:ESCenterlines:Display_Centerlines:1
+PLUGIN:Ground Radar plugin:HideMapData:GND
+PLUGIN:Ground Radar plugin:ShowMapData:TWR
 PLUGIN:Ground Radar plugin:TowerMode:EDDM
 PLUGIN:TopSky plugin:NoDraw:1
