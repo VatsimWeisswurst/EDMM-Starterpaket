@@ -6,6 +6,14 @@ SECTORTITLE:
 ARTCC high boundary:Restricted area EDMM ED-R1 Garching:
 ARTCC low boundary:RMZ EDNX:
 ARTCC low boundary:Tower CTR EDDM:
+Fixes:DM-F1:name
+Fixes:DM-F1:symbol
+Fixes:DM-F2:name
+Fixes:DM-F2:symbol
+Fixes:DM-H1:name
+Fixes:DM-H1:symbol
+Fixes:DM-H2:name
+Fixes:DM-H2:symbol
 Geo:EDMM Highway:
 Geo:EDMM River:
 NDBs:MIQ:name

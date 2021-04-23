@@ -9,7 +9,7 @@ m_ShowTitleAtisFreq:1
 m_ShowTitleClock:1
 m_ShowTitleLeader:1
 m_ShowTitleFilter:0
-m_ShowTitleTrans:1
+m_ShowTitleTrans:0
 m_ShowVoiceRoomUsers:0
 m_ShowFSSControllers:1
 m_ShowCTRControllers:1
@@ -36,7 +36,7 @@ m_ScreenMaximized:0
 m_ShowTitleSelectedAc:1
 m_PlanesListX:723
 m_PlanesListY:14
-m_MetarListX:1404
+m_MetarListX:1408
 m_MetarListY:43
 m_VoiceListX:-1000
 m_VoiceListY:-1000

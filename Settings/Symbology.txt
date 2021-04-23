@@ -7,7 +7,7 @@ Low airways:name:6579300:3.5:0:0:8
 High airways:line:2697513:3.5:1:0:7
 High airways:name:5987163:3.5:0:0:8
 Fixes:symbol:2830912:1.0:0:0:7
-Fixes:name:2830912:3.5:0:0:1
+Fixes:name:2830912:3.5:0:0:2
 Sids:line:6118749:3.0:2:0:7
 Stars:line:6579300:3.0:2:0:7
 ARTCC high boundary:line:2830912:3.0:0:1:7
@@ -15,15 +15,15 @@ ARTCC boundary:line:2830912:3.0:0:1:7
 ARTCC low boundary:line:2830912:3.0:0:1:7
 Geo:line:8421504:3.0:0:0:7
 VORs:symbol:2830912:1.0:0:0:7
-VORs:name:2830912:3.5:0:0:14
+VORs:name:2830912:3.5:0:0:2
 VORs:frequency:2830912:3.5:0:0:2
 NDBs:symbol:2830912:1.0:0:0:7
-NDBs:name:2830912:3.5:0:0:12
+NDBs:name:2830912:3.5:0:0:2
 NDBs:frequency:2830912:3.5:0:0:0
 Runways:centerline:5789784:3.5:0:0:7
 Runways:extended centerline:8750469:3.5:0:0:7
 Runways:name:8421504:3.5:0:0:7
-Datablock:non concerned:3947580:3.0:0:0:7
+Datablock:non concerned:3947580:3.5:0:0:7
 Datablock:notified:16737350:3.5:0:0:7
 Datablock:assumed:4768103:3.5:0:0:7
 Datablock:transfer to me initiated:14474460:3.5:0:0:7
@@ -58,9 +58,9 @@ Datablock:SCTA CFL used warning leader:65535:3.5:0:3:7
 Controller:normal:65535:3.5:0:0:7
 Controller:breaking:13408767:3.5:0:0:7
 Controller:timeout:16777215:3.5:0:0:7
-Metar:normal:16776960:4.0:0:0:7
-Metar:modified:13408767:4.0:0:0:7
-Metar:timeout:16777215:4.0:0:0:7
+Metar:normal:16776960:3.5:0:0:7
+Metar:modified:13408767:3.5:0:0:7
+Metar:timeout:16777215:3.5:0:0:7
 Other:wait:16777215:3.5:0:0:7
 Other:distance line:8421504:3.5:0:0:7
 Other:distance values:65535:4.0:0:0:7
