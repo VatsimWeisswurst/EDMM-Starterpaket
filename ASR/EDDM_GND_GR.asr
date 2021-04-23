@@ -301,4 +301,6 @@ PLUGIN:ESCenterlines:Display_Centerlines:1
 PLUGIN:Ground Radar plugin:AirportElevation:1487
 PLUGIN:Ground Radar plugin:AirportRadius:2.0
 PLUGIN:Ground Radar plugin:GroundMode:EDDM
+PLUGIN:Ground Radar plugin:ShowMapData:GND
+PLUGIN:Ground Radar plugin:HideMapData:TWR
 PLUGIN:Topsky plugin:NoDraw:1
